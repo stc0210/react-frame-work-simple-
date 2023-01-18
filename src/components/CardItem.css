@@ -1,0 +1,16 @@
+.cards__item{
+    width: 350px;
+}
+
+.cards__item__pic-wrap{
+    height: 400px;
+}
+
+.cards__item__link {
+    border-radius: 0px ;
+
+}
+
+.cards__item__pic-wrap::after{
+    display: none;
+}
